@@ -41,7 +41,7 @@
 
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
 
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/darkzera)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-cruz92/)
 
 - Fun facts: 
   - I've been djing psytrance muzik for 10 years and you can check [here](https://soundcloud.com/djzooi)
