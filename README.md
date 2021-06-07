@@ -36,31 +36,19 @@
  &nbsp;
  </p>
 
-
 - Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)   
-
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
-
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-cruz92/)
-
 - Fun facts: 
   - I've been djing psytrance muzik for 10 years and you can check [here](https://soundcloud.com/djzooi)
   - Some people thinks im an indian/japanese/indonesian but I was just born with ptosis and theres alot of miscegenation in Brazil and it seems to confuse people 
   - Yes, I'm a classic Unix fan boy
   - DOTA > LOL 
 
-<br>
-<br>
-<br>
-
 ### $ whereis darkzera
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
 <div>
-
 </div>
-
-<br>
 <p>
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=darkzera&show_icons=true&theme=gruvbox)
 </p>
