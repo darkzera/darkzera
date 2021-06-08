@@ -2,8 +2,7 @@
 <div style="text-align: justify"> 
 <i>$ whoami</i>
 
-...whoami not found yet
-Linux enthusiast since teenage, I 
+Hello there!! I am software developer about to finish my graduation from <b>Brazil</b> and love to automate things. I appreciate a lot working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
 </div>
 
 ### Main Stack
@@ -12,7 +11,14 @@ Linux enthusiast since teenage, I
 
  </p>
 
-- Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)   
+- Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)
+
+- Currently learning and what I want to learn in the future
+    - Test Driven Development approach to NodeJS API applications [ X ]
+    - NoSQL (MongoDB) [ ]
+    - Docker + Kubernetes [ ]
+    - DevOPS Culture [ ]
+
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
 
 - $ whereis darkzera: &nbsp; &nbsp;[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
@@ -53,11 +59,3 @@ Linux enthusiast since teenage, I
  &nbsp;
  ![Main stack ](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  &nbsp;
-
- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
