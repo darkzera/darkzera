@@ -3,11 +3,30 @@
 <i>$ whoami</i>
 
 ...whoami not found yet
+Linux enthusiast since teenage, I 
 </div>
 
 ### Main Stack
 <p>
 <img align="right" height="370px" weigth="800" alt="GIF" src="https://1.bp.blogspot.com/-0kVmoHbtTFs/XPFj4MFsjYI/AAAAAAAATNE/HguTl9cqnpwTSImqTQ7V8bV5alXRuSeEgCLcBGAs/s1600/linuxtuxman_.gif" />
+
+ </p>
+
+- Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)   
+- <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
+
+- $ whereis darkzera: &nbsp; &nbsp;[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
+- Fun facts: 
+  - I've been djing psytrance muzik for 10 years and you can check [here](https://soundcloud.com/djzooi)
+  - Some people thinks im an indian/japanese/indonesian but I was just born with ptosis and theres alot of miscegenation in Brazil and it seems to confuse people 
+  - Yes, I'm a classic Unix fan boy
+<p>
+ 
+ <br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=darkzera&show_icons=true&theme=gruvbox)
+ 
+</p>
 
 ![Main Stack ](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  &nbsp; 
@@ -18,7 +37,7 @@
  ![Main stack ](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  &nbsp;
  ![Main stack ](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+ &nbsp;
  ![Main stack ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  &nbsp;
  ![Main stack ](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -34,22 +53,11 @@
  &nbsp;
  ![Main stack ](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  &nbsp;
- </p>
 
-- Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)   
-- <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-cruz92/)
-- Fun facts: 
-  - I've been djing psytrance muzik for 10 years and you can check [here](https://soundcloud.com/djzooi)
-  - Some people thinks im an indian/japanese/indonesian but I was just born with ptosis and theres alot of miscegenation in Brazil and it seems to confuse people 
-  - Yes, I'm a classic Unix fan boy
-  - DOTA > LOL 
-
-### $ whereis darkzera
-<p>
- 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
- &nbsp;
-![github stats](https://github-readme-stats.vercel.app/api?username=darkzera&show_icons=true&theme=gruvbox)
- 
-</p>
+ ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+ ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+ ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+ ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+ ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
