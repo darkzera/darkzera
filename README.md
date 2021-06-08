@@ -2,7 +2,7 @@
 <div style="text-align: justify"> 
 <i>$ whoami</i>
 
-Hello there!! I am software developer about to finish my graduation from <b>Brazil</b> and love to automate things. I appreciate a lot working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
+Hello there!! I am software developer about to finish my graduation from <b>Brazil</b> and love to automate everything (sometimes it became worthless). Really like to working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
 </div>
 
 ### Main Stack
@@ -15,23 +15,19 @@ Hello there!! I am software developer about to finish my graduation from <b>Braz
 
 - Currently learning and what I want to learn in the future
     - Test Driven Development approach to NodeJS API applications [ X ]
-    - NoSQL (MongoDB) [ ]
-    - Docker + Kubernetes [ ]
-    - DevOPS Culture [ ]
+    - NoSQL (MongoDB) [ - ]
+    - Docker + Kubernetes [ - ]
+    - DevOPS Culture [ - ]
 
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
 
 - $ whereis darkzera: &nbsp; &nbsp;[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
 - Fun facts: 
-  - I've been djing psytrance muzik for 10 years and you can check [here](https://soundcloud.com/djzooi)
+  - I've been djing psytrance music for 10 years and you can check [here](https://soundcloud.com/djzooi)
   - Some people thinks im an indian/japanese/indonesian but I was just born with ptosis and theres alot of miscegenation in Brazil and it seems to confuse people 
   - Yes, I'm a classic Unix fan boy
 <p>
- 
  <br>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=darkzera&show_icons=true&theme=gruvbox)
- 
 </p>
 
 ![Main Stack ](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
