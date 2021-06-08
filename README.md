@@ -7,10 +7,6 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
 </div>
 
 ### Main Stack
-<p>
-
-
- </p>
 
 - Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)
 - Currently learning and what I want to learn in the future
@@ -18,7 +14,6 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
     - NoSQL (MongoDB) [ - ]
     - Docker + Kubernetes [ - ]
     - DevOPS Culture [ - ]
-
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
 - $ whereis darkzera: &nbsp; &nbsp;[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
 - Fun facts: 
