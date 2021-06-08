@@ -6,8 +6,6 @@
 Hello there!! I am software developer from <b>Brazil</b>, about to finish my graduation and love to automate everything (sometimes it became worthless). Really like to working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
 </div>
 
-### Main Stack
-
 - Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)
 - Currently learning and what I want to learn in the future
     - Test Driven Development approach to NodeJS API applications [ X ]
