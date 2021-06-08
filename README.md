@@ -2,7 +2,7 @@
 <div style="text-align: justify"> 
 <i>$ whoami</i>
 
-Hello there!! I am software developer about to finish my graduation from <b>Brazil</b> and love to automate everything (sometimes it became worthless). Really like to working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
+Hello there!! I am software developer from <b>Brazil</b>, about to finish my graduation and love to automate everything (sometimes it became worthless). Really like to working with people, sharing my knowledge and learn new things..absolute passionate to technologies and diversities 
 </div>
 
 ### Main Stack
