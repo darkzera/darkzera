@@ -12,7 +12,6 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
  </p>
 
 - Mainly focused to improove my skills in NodeJS (+Express) to become a professional Backend Developer but still available to new technologies :)
-
 - Currently learning and what I want to learn in the future
     - Test Driven Development approach to NodeJS API applications [ X ]
     - NoSQL (MongoDB) [ - ]
@@ -20,7 +19,6 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
     - DevOPS Culture [ - ]
 
 - <b> I’m currently looking for intership job (if u seen this, hire me :]) </b>
-
 - $ whereis darkzera: &nbsp; &nbsp;[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cruz92/)
 - Fun facts: 
   - I've been djing psytrance music for 10 years and you can check [here](https://soundcloud.com/djzooi)
