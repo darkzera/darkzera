@@ -38,7 +38,6 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
  &nbsp;
  ![Main stack ](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  &nbsp;
-
 ![Main Stack ](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
  &nbsp;
 ![Main Stack ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
