@@ -42,7 +42,5 @@ Hello there!! I am software developer from <b>Brazil</b>, about to finish my gra
  &nbsp;
 ![Main Stack ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  &nbsp;
-![Main Stack ](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
- &nbsp;
  ![Main stack ](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  &nbsp;
