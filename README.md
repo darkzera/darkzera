@@ -1,5 +1,17 @@
 ## Lucas Cruz 
 
-<i>$ whoami</i>
- <img align="right" height="370px" weigth="800" alt="GIF" src="https://1.bp.blogspot.com/-0kVmoHbtTFs/XPFj4MFsjYI/AAAAAAAATNE/HguTl9cqnpwTSImqTQ7V8bV5alXRuSeEgCLcBGAs/s1600/linuxtuxman_.gif" />
+ <img height="200px" weigth="100" alt="GIF" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" />
 
+
+
+
+
+
+
+
+<i>“When in doubt, always follow your nose”</i>
+<br>
+
+<i> Keep it simple </i>
+ <div align="right"><i> stupid
+  </i></div>
