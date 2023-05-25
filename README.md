@@ -9,6 +9,5 @@
 
 
 <br>
-<i> Keep it simple </i>
- <div align="right"><i> stupid
-  </i></div>
+Trying to <i><b>Keep it simple</i></b> cuz im <i><b> stupid</b>
+  </i>
